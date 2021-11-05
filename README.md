@@ -1,5 +1,5 @@
-# Login2See-Pice-For-WooCommerce
-Login2See Pice For WooCommerce
+# Login2See-Price-For-WooCommerce
+Login2See Price For WooCommerce
 --------------------
 
 GNU GPL v3
