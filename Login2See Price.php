@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Login2See Pice For WooCommerce
+ * Plugin Name: Login2See Price For WooCommerce
  * Description: This Plugin is Designed That You Have To Login To See Price 
  * Version: 1.1
  * Tested up to: 5.7
